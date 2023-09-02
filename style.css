@@ -540,7 +540,7 @@ input:focus {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image: url('/assets/ic_baseline-photo-camera.png');
+    background-image: url('assets/ic_baseline-photo-camera.png');
     background-size: 60px;
     background-position: center;
     background-repeat: no-repeat;
